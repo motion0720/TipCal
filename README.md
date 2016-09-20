@@ -6,7 +6,7 @@
 
 Submitted by: **Mengnan Shen**
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -34,9 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+The code had the "build failed" issue. I had to uninstall the XCode and reinstall it again. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2016 Mengnan Shen 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
